@@ -1,4 +1,4 @@
-# ascii art
+# ascii animals
 
 ## TEAM
    <Rej> -- <making things> -- <@aoshiftctrl>
