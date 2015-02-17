@@ -1,7 +1,5 @@
 # ascii animals
 
-## TEAM
-   <Rej> -- <making things> -- <@aoshiftctrl>
+A litte fun project with text. 
 
-## TECHNOLOGY COLOPHON
-Markdown, ASCII
+^Rej
